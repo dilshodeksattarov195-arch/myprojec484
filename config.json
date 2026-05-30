@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevender",
+        "uuid": 3090340,
+        "checksum": "dk8btt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
